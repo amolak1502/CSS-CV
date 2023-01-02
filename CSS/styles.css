@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-size: 150%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div {
+    
+}
+.top-container {
+    background-color: #FFFBEB;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 600px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 600px;
+}
+.Span {
+    text-decoration: underline;
+}
+.skillimgs{
+    width: 30%;
+}
