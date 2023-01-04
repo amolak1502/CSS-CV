@@ -48,10 +48,7 @@ a:hover {
 
 
 .contact-me {
-    position: absolute;
-    /* top: 1600px; */
-    left: 0;
-    right: 0;
+
 }
 
 
@@ -63,15 +60,10 @@ a:hover {
 .middle-container {
 
     margin: 100px auto;
-    position: absolute;
-    top: 1000px;
+
 }
 .bottom-container {
     background-color: #FFFBEB;
-    position: absolute;
-    top: 3500px;
-    left: 0;
-    right: 0;
     padding: 50px 0 20px;
 }
 
